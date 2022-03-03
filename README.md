@@ -5,7 +5,7 @@ A terminal-based program that sends notfications 10 minutes before every class, 
 Only works for The Taree Christian College version of Schoolbox, for people who have access to the TCC schoolbox.
 
 ### Additional downloads
-Unfortunately, this program requires a hefty list of donwloads
+Unfortunately, this program requires a hefty list of downloads
 - python if not already installed
 - selenium 
 - beautifulsoup
